@@ -12,5 +12,6 @@ Talented
 
 Humorous
 [=======================>  ]
-_He says he is working on it. I believe him._
 ```
+_He says he is working on the `humor` factor. I believe him._
+
